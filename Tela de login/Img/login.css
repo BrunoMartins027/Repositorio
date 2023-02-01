@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.pass{
+    display: flex;
+}
+
+.div input{
+    border: none;
+}
+div img{
+    width: 18px;
+    cursor: pointer;
+}
+.body{
+    background: linear-gradient(63deg , rgb(248, 25, 25) , rgb(3, 250, 126));
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-top: 118px;
+
+}
+.pass{
+    align-items:center;
+    justify-content: center;
+    display: flex;
+    margin-left: 10px;
+    flex-direction: column;
+}
+
+.pass{
+    border: 3px solid;
+    border-color: rgb(255, 152, 168);
+    border-radius: 20px;
+    height: 300px;
+    margin-top: 50px;
+    width: 320px;
+}
+.Password{
+    margin-right: 5px;
+    height: 35px;
+}
+.Emai{
+    border-radius: 7px;
+    height: 35px;
+    background: linear-gradient(57deg , black , green);
+    color: white;
+    font-size: 18px;
+}
+.pass2{
+    display: flex;
+    justify-content: flex-start;
+    
+}
+.imgg{
+    width: 30px;
+
+}
+.h1-login{
+    margin-bottom: 25px;
+    color: white;
+    border-bottom: 3px solid white;
+}
+
+.Password{
+    height: 35px;
+    background: linear-gradient(57deg , black , green);
+    color: white;
+    font-size: 18px;
+    margin-left: 30px;
+    border-radius: 7px;
+}
+.btn-login{
+    background-color: rgb(252, 96, 96);
+    height: 35px;
+    color: white;
+    font-size: 18px;
+    width: 225px;
+    margin-top: 14px;
+    border-radius: 7px;
+    cursor: pointer;
+}
